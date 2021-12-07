@@ -22,8 +22,6 @@ namespace Static_12_2_1
         public static double cSq;
         public static bool cOwn;
         public static double radius;
-            
-
 
         public static double Perimeter(double radius)
         { 
