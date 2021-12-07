@@ -18,12 +18,12 @@ namespace Static_12_2_1
     }
     static class Circle
     {
-
         public static double cPer;
         public static double cSq;
         public static bool cOwn;
-
         public static double radius;
+            
+
 
         public static double Perimeter(double radius)
         { 
